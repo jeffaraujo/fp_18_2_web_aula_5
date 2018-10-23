@@ -1,0 +1,24 @@
+{
+  "images": {
+    "rose": "rose.jpg",
+    "pink": "pink.jpg",
+    "lenovo": "lenovo.jpg",
+    "computer": "computer.jpg",
+    "carton": "carton.jpg",
+    "blue": "blue.jpg",
+    "black": "black.jpg",
+    "asus": "asus.jpg",
+    "apple": "apple.jpg",
+    "acer": "acer.jpg"
+  },
+  "orientation": "vertical",
+  "optimize": "lossless",
+  "padding": 10,
+  "output": "jpg",
+  "stylesheet": "css",
+  "pathprefix": "",
+  "customstyles": {
+    "display": "inline-block"
+  },
+  "appendcachebustspritesuffix": false
+}
